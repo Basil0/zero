@@ -1,3 +1,4 @@
+import googletrans
 from googletrans import Translator
 import requests
 
